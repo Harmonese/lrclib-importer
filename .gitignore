@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Python venv
+.venv/
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# LRC importer working dirs
+done-lrc-files/
+done-tracks/
+
+# Do not commit actual music or lyrics
+tracks/
+lrc-files/
+
